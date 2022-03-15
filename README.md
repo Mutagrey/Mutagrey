@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sergey!
 - 👀 I’m interested in iOS Development
-- 📫 sergeypetrovmtgrey@gmail.com
+- 📫 sergreypetrovmtgrey@gmail.com
 
 <!---
 Mutagrey/Mutagrey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
